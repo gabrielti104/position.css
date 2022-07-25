@@ -1,0 +1,18 @@
+.container{
+    width: 900px;
+    height: 900px;
+    margin: 300px;
+    background-color: aqua;
+}
+
+
+.box1{
+    background-color:black;
+    width: 150px;
+    height: 150px;
+    position: fixed;
+    top: 50px;
+}
+
+
+
